@@ -97,7 +97,7 @@ function Navbar() {
         ) : null}
         {/* <!-- navbar for smaller devices --> */}
       </nav>
-      {/* <!-- navbar ends here --> */}
+      /*  navbar ends here  */
     </div>
   );
 }
